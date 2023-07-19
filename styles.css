@@ -1,0 +1,22 @@
+nav{
+    display: inline;
+    font-family: "roboto";
+    font-size: x-large;
+    color: rgb(59, 81, 130);
+    background-color: rgb(164, 191, 199);
+}
+body {
+    background-color: #479ad6c9;
+  }
+h1{
+    font-family: "roboto";
+    color: rgb(50, 108, 120)
+}
+img{
+    padding-left: 150;
+}
+div{
+    display:flex;
+    padding: flex;
+    margin-left: 10px;
+}
